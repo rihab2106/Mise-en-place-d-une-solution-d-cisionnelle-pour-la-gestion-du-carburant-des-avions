@@ -10,6 +10,6 @@ Ce projet vise à mettre en place une solution d'aide à la décision pour optim
 ## Fonctionnalités
 
 - **Intégration de données :** Intégration de données provenant de multiples sources avec Talend.
-- **Analytique :** Manipulation et analyse avancées des données avec Microsoft Excel.
+- **Analytique :** Manipulation et analyse avancées des données avec Microsoft Excel et SQL.
 - **Visualisation :** Reporting dynamique et tableaux de bord avec QlikView.
 
